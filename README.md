@@ -66,14 +66,8 @@ Basic Forecast
 bash
 Copy
 Edit
-python weatherly.py --city "Los Angeles"
+python weatherly.py --city "Brantford"
 Run GUI version
-
-bash
-Copy
-Edit
-python weatherly.py --gui
-Export a 7-day report
 
 bash
 Copy
@@ -82,9 +76,6 @@ python weatherly.py --export weekly_report.csv
 👥 Contributors
 @CloudChaser
 
-@UXSunshine
-
-@RainCoder
 
 📜 License
 Weatherly is licensed under the MIT License.
