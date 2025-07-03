@@ -1,12 +1,12 @@
 # ⛅ Weatherly – Smarter Forecasts, Simplified
 
-Weatherly is an AI-powered weather app that offers real-time forecasts, smart suggestions, and location-based alerts—all wrapped in a clean, minimalist design.
+Weatherly is an AI-powered weather app that offers real-time forecasts, smart suggestions, and location-based alerts,all wrapped in a clean, minimalist easy to use design.
 
 ---
 
 ## 📖 Description
 
-Weatherly combines real-time weather data with AI to help users make informed daily decisions. From choosing what to wear to planning for storms, Weatherly has you covered—whether you're coding indoors or hiking outdoors.
+Weatherly combines real-time weather data with AI to help users make informed daily decisions. From choosing what to wear to planning for storms, Weatherly has you covered—whether you're hanging indoors or hiking outdoors.
 
 ---
 
@@ -47,7 +47,7 @@ Weatherly combines real-time weather data with AI to help users make informed da
 ## 🐞 Known Bugs
 
 - GUI window resizing glitch on Linux
-- Clothing recommendations sometimes inconsistent
+- Clothing recommendations sometimes inconsistent(Above 30 celcius, it will recomend "NO CLOTHS" at all)
 - Limited offline mode functionality
 - Metric/imperial toggle not fully functional
 
