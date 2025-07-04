@@ -1,4 +1,5 @@
-# ⛅ Weatherly – Smarter Forecasts, Simplified
+#                          ⛅ Weatherly
+## Smarter Forecasts, Simplified
 
 Weatherly is an AI-powered weather app that offers real-time forecasts, smart suggestions, and location-based alerts,all wrapped in a clean, minimalist easy to use design.
 
